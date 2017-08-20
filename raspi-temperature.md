@@ -4,9 +4,9 @@ It's important to keep the Raspberry Pi from getting too hot (or too cold!). To 
 
 This guide shows you how to;
 
-**1. Show the temperature using the command-line.
-2. Create a command-line temperature shortcut
-3. Display the temperature in the GUI**
+1. **Show the temperature using the command-line.**
+2. **Create a command-line temperature shortcut**
+3. **Display the temperature in the GUI**
 
 Let's get started!
 
