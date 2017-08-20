@@ -1,4 +1,4 @@
-# Raspberry Pi temperature
+# Raspberry Pi Temperature Guide
 
 It's important to keep the Raspberry Pi from getting too hot (or too cold!). To keep our Pi running smoothly, we should keep an eye on its temperature.
 
